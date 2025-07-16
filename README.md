@@ -13,7 +13,7 @@ Lately, I’ve been sharpening my skills in OOP/MVC architecture through WordPre
 - Increasing focus on clean OOP and MVC plugin architecture  
 - Actively learning Laravel to move beyond WordPress and grow as a full-stack developer
 - Always up for talking shop or collaborating on a new idea
-- Outside of work, I’m into fathering my sons, fishing, acoustic guitar, and the occasional game of Magic
+- Outside of work, I enjoy spending time with my sons, fishing, playing acoustic guitar, and the occasional game of Magic.
 
 ---
 
