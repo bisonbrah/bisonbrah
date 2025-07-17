@@ -37,7 +37,7 @@ Simple debug tool to visualize and trace template loading in themes and popular 
 
 **Lightweight Media Proxy Plugin**  
 A development tool that pulls missing media from production or CDN environments to streamline local WordPress development.  
-*(Public repo coming soon)*
+*(Public)*
 
 ---
 
