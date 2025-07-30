@@ -45,4 +45,3 @@ A development tool that pulls missing media from production or CDN environments 
 
 - Portfolio: [evanghenry.com](https://evanghenry.com)  
 - LinkedIn: [linkedin.com/in/evanghenry](https://linkedin.com/in/evanghenry)  
-- GitHub: [github.com/bisonbrah](https://github.com/bisonbrah)  
