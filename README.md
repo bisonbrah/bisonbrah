@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Evan Henry – WordPress Developer & Laravel Learner
 
-I'm a web developer who focuses on building clean, maintainable websites and custom functionality. I work primarily with WordPress and WooCommerce, building advanced Gutenberg blocks using ACF Composer, Sage, Tailwind CSS, and Webpack.
+I'm a web developer who focuses on building clean, maintainable websites and custom functionality. I work primarily with WordPress and WooCommerce, building advanced Gutenberg blocks using ACF Composer, Sage, Tailwind CSS, and Webpack/Vite.
 
-Lately, I’ve been sharpening my skills in OOP/MVC architecture through WordPress plugin development, diving into Laravel with Laracasts, and tinkering with AI-powered tooling to stay ahead of the curve.
+Lately, I’ve been sharpening my skills in OOP/MVC architecture through WordPress plugin development, diving into Laravel development, and tinkering with AI-powered tooling to stay ahead of the curve.
 
 ---
 
@@ -10,7 +10,7 @@ Lately, I’ve been sharpening my skills in OOP/MVC architecture through WordPre
 
 - WordPress development with a focus on performance, scalability, and modern best practices  
 - ACF-powered custom blocks and backend admin interfaces  
-- Increasing focus on clean OOP and MVC plugin architecture  
+- Primary focus is clean OOP and MVC code architecture  
 - Actively learning Laravel to move beyond WordPress and grow as a full-stack developer
 - Always up for talking shop or collaborating on a new idea
 - Outside of work, I enjoy spending time with my sons, fishing, playing acoustic guitar, and the occasional game of Magic.
