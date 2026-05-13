@@ -1,47 +1,54 @@
-# Hi there 👋 I'm Evan Henry – WordPress Developer & Laravel Learner
+# Evan Henry
+**Full Stack Developer** based in York, PA.
 
-I'm a web developer who focuses on building clean, maintainable websites and custom functionality. I work primarily with WordPress and WooCommerce, building advanced Gutenberg blocks using ACF Composer, Sage, Tailwind CSS, and Webpack/Vite.
-
-Lately, I’ve been sharpening my skills in OOP/MVC architecture through WordPress plugin development, diving into Laravel development, and tinkering with AI-powered tooling to stay ahead of the curve.
-
----
-
-## About Me
-
-- WordPress development with a focus on performance, scalability, and modern best practices  
-- ACF-powered custom blocks and backend admin interfaces  
-- Primary focus is clean OOP and MVC code architecture  
-- Actively learning Laravel to move beyond WordPress and grow as a full-stack developer
-- Always up for talking shop or collaborating on a new idea
-- Outside of work, I enjoy spending time with my sons, fishing, playing acoustic guitar, and the occasional game of Magic.
+A decade of production experience building complex web systems for clients across energy infrastructure, federal law enforcement, national franchise networks, federal trade advocacy, and enterprise e-commerce.
 
 ---
 
-## Notable Projects
+## What I Work With
 
-**Custom WordPress Plugin Boilerplate**  
-A lightweight MVC-style plugin structure with PSR-4 autoloading, service registration, and clear separation of concerns.  
-*(Public repo coming soon)*
+**Languages & Frameworks**
+PHP (OOP/MVC) • JavaScript • HTML • CSS/SCSS • Tailwind • Blade
 
-**Spin-to-Win Gravity Form Integration**  
-An interactive popup powered by a JavaScript spin wheel and Gravity Forms. Admins control options and behavior via ACF.  
-*(Private project — contact me for a preview)*
+**Platforms & Tools**
+WordPress • Sage (9/10/11) • WooCommerce • ACF Composer • Git • PhpStorm • XD • Sketch • Photoshop
 
-**Legacy Plugin Refactor to OOP**  
-Refactored a vanilla singleton plugin into a modular OOP structure, preserving all functionality while improving caching and maintainability.  
-*(Private project — contact me for a preview)*
+**Systems & Infrastructure**
+MySQL • WP REST API • Cloudways (DigitalOcean) • Zapier • Third-party API integration
 
-**Lightweight Template Debug Plugin**  
-Simple debug tool to visualize and trace template loading in themes and popular plugins.  
-*(Public repo coming soon)*
+---
 
-**Lightweight Media Proxy Plugin**  
-A development tool that pulls missing media from production or CDN environments to streamline local WordPress development.  
+## Currently Building Toward
+
+React • TypeScript • Next.js
+
+---
+
+## Projects
+
+**WP Local Media Proxy**
+A development tool that proxies missing local media from production or CDN environments, eliminating broken images during local WordPress development.
 *(Public)*
+
+**Custom WordPress Plugin Boilerplate**
+A lightweight MVC-style plugin structure with PSR-4 autoloading, service registration, and clear separation of concerns.
+*(Public repo coming soon)*
+
+**Spin-to-Win Gravity Forms Integration**
+An interactive popup powered by a JavaScript spin wheel and Gravity Forms. Admins control options and behavior via ACF.
+*(Private — contact for a preview)*
+
+**Legacy Plugin Refactor to OOP**
+Refactored a vanilla singleton plugin into a modular OOP structure, preserving all functionality while improving caching and maintainability.
+*(Private — contact for a preview)*
+
+**Lightweight Template Debug Plugin**
+Simple debug tool to visualize and trace template loading in themes and popular plugins.
+*(Public repo coming soon)*
 
 ---
 
 ## Connect
 
-- Portfolio: [evanghenry.com](https://evanghenry.com)  
-- LinkedIn: [linkedin.com/in/evanghenry](https://linkedin.com/in/evanghenry)  
+- Website: [evanghenry.com](https://evanghenry.com)
+- LinkedIn: [linkedin.com/in/evanghenry](https://linkedin.com/in/evanghenry)
