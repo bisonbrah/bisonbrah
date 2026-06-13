@@ -1,54 +1,41 @@
 # Evan Henry
-**Full Stack Developer** based in York, PA.
 
-A decade of production experience building complex web systems for clients across energy infrastructure, federal law enforcement, national franchise networks, federal trade advocacy, and enterprise e-commerce.
+Full stack web developer with a decade of production experience building complex web systems. Deep WordPress expertise with a growing focus on backend engineering, systems design, and AI-powered tooling. Production experience across e-commerce, government, B2B SaaS, and enterprise client work.
+
+I think in systems, OOP, and MVC. The landscape is changing fast and I'm changing with it. 
+
+Define. Collaborate. Execute.
 
 ---
 
-## What I Work With
+## Stack
 
 **Languages & Frameworks**
-PHP (OOP/MVC) • JavaScript • HTML • CSS/SCSS • Tailwind • Blade
+PHP (OOP/MVC) • JavaScript • HTML • CSS/Tailwind • Blade
 
-**Platforms & Tools**
-WordPress • Sage (9/10/11) • WooCommerce • ACF Composer • Git • PhpStorm • XD • Sketch • Photoshop
-
-**Systems & Infrastructure**
-MySQL • WP REST API • Cloudways (DigitalOcean) • Zapier • Third-party API integration
-
----
-
-## Currently Building Toward
-
-React • TypeScript • Next.js
+**Currently working in**
+Python • Django • Postgres • Anthropic API
 
 ---
 
 ## Projects
 
-**WP Local Media Proxy**
-A development tool that proxies missing local media from production or CDN environments, eliminating broken images during local WordPress development.
-*(Public)*
+**[wp-vitals](https://github.com/bisonbrah/wp-vitals)**
+CLI tool that analyzes WordPress debug logs across Local by Flywheel installs, classifies issues by severity, and surfaces AI-powered recommendations via Claude Haiku. Built with Python, pytest, and the Anthropic API. Includes 15 unit tests, full type hints, and docstrings.
 
-**Custom WordPress Plugin Boilerplate**
-A lightweight MVC-style plugin structure with PSR-4 autoloading, service registration, and clear separation of concerns.
-*(Public repo coming soon)*
+**[wp-vitals-dashboard](https://github.com/bisonbrah/wp-vitals-dashboard)**
+Django + Postgres dashboard that executes wp-vitals audits, stores results, and diffs runs to show what changed across site health cycles. Includes a plugin auditor via WP-CLI and an npm auditor for theme build pipelines.
 
-**Spin-to-Win Gravity Forms Integration**
-An interactive popup powered by a JavaScript spin wheel and Gravity Forms. Admins control options and behavior via ACF.
-*(Private — contact for a preview)*
+**[wp-local-media-proxy](https://github.com/bisonbrah/wp-local-media-proxy)**
+Development utility that proxies missing local media from production environments, eliminating broken images during local WordPress development.
 
-**Legacy Plugin Refactor to OOP**
-Refactored a vanilla singleton plugin into a modular OOP structure, preserving all functionality while improving caching and maintainability.
-*(Private — contact for a preview)*
+---
 
-**Lightweight Template Debug Plugin**
-Simple debug tool to visualize and trace template loading in themes and popular plugins.
-*(Public repo coming soon)*
+## Currently Building Toward
+Systems design • Backend engineering • AI agent tooling • Python/Django
 
 ---
 
 ## Connect
-
-- Website: [evanghenry.com](https://evanghenry.com)
-- LinkedIn: [linkedin.com/in/evanghenry](https://linkedin.com/in/evanghenry)
+- [evanghenry.com](https://evanghenry.com)
+- [linkedin.com/in/evanghenry](https://linkedin.com/in/evanghenry)
